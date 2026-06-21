@@ -113,7 +113,7 @@ User Alex is sucessfilly logged iside the CLI
 
 ### Create Group
 
-![Create Group](screenshots/03-create-group.png)
+![Create Group](screenshots/04-create-group.png)
 
 ---
 
