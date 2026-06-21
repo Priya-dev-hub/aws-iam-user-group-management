@@ -155,7 +155,7 @@ aws sts get-caller-identity
 
 This command confirms that the AWS CLI is authenticated as the IAM user **Alex**.
 
-![AWS CLI Verification](screenshots/09-aws-cli-verification.png) 
+![AWS CLI Verification](screenshots/08-aws-cli-verification.jpeg) 
 
 ---
 
