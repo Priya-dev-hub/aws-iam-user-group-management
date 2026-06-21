@@ -28,11 +28,12 @@ The objective is to understand how AWS IAM helps organizations securely control 
 
 ## Project Architecture
 
-![Architecture Diagram](architecture diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ---
 
 ## Implementation Steps
+
 
 ### Step 1: Sign in to AWS Console
 
