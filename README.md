@@ -125,7 +125,7 @@ User Alex is sucessfilly logged iside the CLI
 
 ### Add User to Group
 
-![Add User](screenshots/05-add-user-group.png)
+![Add User](screenshots/03-create-user.png)
 
 ---
 
