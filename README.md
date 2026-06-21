@@ -91,9 +91,9 @@ Successfully logged in using the IAM User credentials.
 
 ---
 
-### Step 8: Enable MFA
+### Step 8: Verify CLI LOGIN
 
-Configured Multi-Factor Authentication for enhanced account security.
+User Alex is sucessfilly logged iside the CLI 
 
 ---
 
@@ -174,7 +174,7 @@ This command confirms that the AWS CLI is authenticated as the IAM user **Alex**
 
 ## Learning Outcomes
 
-Through this project, I learned how AWS IAM securely manages identities and permissions. I gained practical experience creating users and groups, assigning permissions using AWS Managed Policies, enabling MFA, and following AWS security best practices.
+Through this project, I learned how AWS IAM securely manages identities and permissions. I gained practical experience creating users and groups, assigning permissions using AWS Managed Policies, enabling MFA,login as Alies inside the CLI and following AWS security best practices.
 
 ---
 
